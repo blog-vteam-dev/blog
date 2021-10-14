@@ -1,111 +1,39 @@
 ---
 title: Blog Gen GO!
-date: 2021-01-01 12:00:00
+date: 2021-10-14 12:00:00
 tags:
-  - Information
-  - Example
+  - GitHub
+  - AzureSupport
+  - JavaScript
+  - Blog
+  - docker
+  - HTML
+  - markdown
+  - CSS
 disableDisclaimer: false
 ---
 
-Hackathon 2021 Project
-
-<!-- more -->
+## Hackathon 2021 Project
 
 The blog platform for delivery information and tips to customers. 
 
-<!-- 文字修飾 -->
+<!-- more -->
 
-**太字**
+## Story
 
-~~訂正せん~~
+Our goal is provide platform to deriver information from CSS to our customer.
+The pain points for customers, especially non-English native, are
 
-*斜め文字*
+- Can not find the right information using search engines (Google, Bing, etc) when customer is facing an issue.
+- Hard to catch up the latest news from Microsoft
 
-<!-- 引用 -->
+Engineers also want an easy way to share information with customers. Following information should be shared to customers and community.
 
-> 引用
->> 引用
+- How to guide for the problem frequency asked
+- Procedures for collecting information when a problem occurs
+- New features of Microsoft help our customer
 
-<!-- 見出し -->
+If the platform was easy to share in SNS or be found by search, it help reduce inquiries. It means customer CAN solve their problem by themselves and CSS engineer can focus on more complex issues 
 
-## 見出し (大)
-### 見出し (中)
-#### 見出し (小)
-
-<!-- リスト -->
-
-- リスト
-   - リスト
-   - リスト
-- リスト
-
-<!-- 数字リスト -->
-
-1. 数字リスト
-   1. 数字リスト
-   2. 数字リスト
-2. 数字リスト
-3. 数字リスト
-
-<!-- 区切り線 -->
-
----
-
-<!-- リンク -->
-
-[Japan Azure IaaS Core Support Blog](https://jpaztech.github.io/blog/)
-
-<!-- 画像 (リポジトリ内ファイルを参照 -->
-
-![](./example/example01.png)
-
-<!-- 画像 (外部 URL を参照) -->
-
-![](https://jpaztech.github.io/blog/vm/re-install-windows-azure-guest-agent/service.png)
-
-<!-- コード ブロック -->
-
-```CMD
-net stop rdagent
-net stop WindowsAzureGuestAgent
-net stop WindowsAzureTelemetryService
-```
-
-<!-- 表 -->
-
-| 見出し | 見出し |
-| ---- | ---- |
-| セル | セル |
-| セル | セル |
-
-<!-- ノート -->
-
-> [!NOTE]
-> THIS IS NOTE
-> `[!NOTE]` と書くと `Note` になります。
-> これだけ MS 公式ドキュメントと異なります。 (公式ドキュメントだと `NOTE` も `注意` に変換される…)
-
-<!-- ヒント -->
-
-> [!TIP]
-> THIS IS TIP
-> `[!TIP]` とかくと `ヒント` になります。
-
-<!-- 重要 -->
-
-> [!IMPORTANT]
-> THIS IS IMPORTANT
-> `[!IMPORTANT]` とかくと `重要` になります。
-
-<!-- 注意事項 -->
-
-> [!CAUTION]
-> THIS IS CAUTION
-> `[!CAUTION]` と書くと `注意事項` になります。
-
-<!-- 注意 -->
-
-> [!WARNING]
-> THIS IS WARNING
-> `[!WARNING]` と書くと `警告` になります。
+We are establishing Blog environment using Microsoft technology (GitHub) for engagement between customer and engineer and developer, proactively share info to customer with single access. This empowered customer to achieve more and engineer to share info easily to customer at same time.
 
