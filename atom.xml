@@ -6,7 +6,7 @@
   <link href="https://cssjpn.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://cssjpn.github.io/blog/"/>
-  <updated>2021-10-14T11:55:48.609Z</updated>
+  <updated>2021-10-14T12:08:16.782Z</updated>
   <id>https://cssjpn.github.io/blog/</id>
   
   <author>
@@ -20,20 +20,32 @@
     <title>Blog Gen GO!</title>
     <link href="https://cssjpn.github.io/blog/information/example/"/>
     <id>https://cssjpn.github.io/blog/information/example/</id>
-    <published>2021-01-01T03:00:00.000Z</published>
-    <updated>2021-10-14T11:55:48.609Z</updated>
+    <published>2021-10-14T03:00:00.000Z</published>
+    <updated>2021-10-14T12:08:16.782Z</updated>
     
-    <content type="html"><![CDATA[<p>Hackathon 2021 Project</p><span id="more"></span><p>The blog platform for delivery information and tips to customers. </p><!-- 文字修飾 --><p><strong>太字</strong></p><p><del>訂正せん</del></p><p><em>斜め文字</em></p><!-- 引用 --><blockquote><p>引用</p><blockquote><p>引用</p></blockquote></blockquote><!-- 見出し --><h2 id="見出し-大"><a href="#見出し-大" class="headerlink" title="見出し (大)"></a>見出し (大)</h2><h3 id="見出し-中"><a href="#見出し-中" class="headerlink" title="見出し (中)"></a>見出し (中)</h3><h4 id="見出し-小"><a href="#見出し-小" class="headerlink" title="見出し (小)"></a>見出し (小)</h4><!-- リスト --><ul><li>リスト<ul><li>リスト</li><li>リスト</li></ul></li><li>リスト</li></ul><!-- 数字リスト --><ol><li>数字リスト<ol><li>数字リスト</li><li>数字リスト</li></ol></li><li>数字リスト</li><li>数字リスト</li></ol><!-- 区切り線 --><hr><!-- リンク --><p><a href="https://jpaztech.github.io/blog/">Japan Azure IaaS Core Support Blog</a></p><!-- 画像 (リポジトリ内ファイルを参照 --><p><img src="/blog/information/example/example01.png"></p><!-- 画像 (外部 URL を参照) --><p><img src="https://jpaztech.github.io/blog/vm/re-install-windows-azure-guest-agent/service.png"></p><!-- コード ブロック --><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">net</span> stop rdagent</span><br><span class="line"><span class="built_in">net</span> stop WindowsAzureGuestAgent</span><br><span class="line"><span class="built_in">net</span> stop WindowsAzureTelemetryService</span><br></pre></td></tr></table></figure><!-- 表 --><table><thead><tr><th>見出し</th><th>見出し</th></tr></thead><tbody><tr><td>セル</td><td>セル</td></tr><tr><td>セル</td><td>セル</td></tr></tbody></table><!-- ノート --><div class="alert is-info"><p class="alert-title">Note</p><p>THIS IS NOTE</p><p><code>[!NOTE]</code> と書くと <code>Note</code> になります。</p><p>これだけ MS 公式ドキュメントと異なります。 (公式ドキュメントだと <code>NOTE</code> も <code>注意</code> に変換される…)</p></div><!-- ヒント --><div class="alert is-success"><p class="alert-title">ヒント</p><p>THIS IS TIP</p><p><code>[!TIP]</code> とかくと <code>ヒント</code> になります。</p></div><!-- 重要 --><div class="alert is-important"><p class="alert-title">重要</p><p>THIS IS IMPORTANT</p><p><code>[!IMPORTANT]</code> とかくと <code>重要</code> になります。</p></div><!-- 注意事項 --><blockquote><p>[!CAUTION]<br>THIS IS CAUTION<br><code>[!CAUTION]</code> と書くと <code>注意事項</code> になります。</p></blockquote><!-- 注意 --><div class="alert is-warning"><p class="alert-title">警告</p><p>THIS IS WARNING</p><p><code>[!WARNING]</code> と書くと <code>警告</code> になります。</p></div>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Hackathon 2021 Project&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<h2 id="Hackathon-2021-Project"><a href="#Hackathon-2021-Project" class="headerlink" title="Hackathon 2021 Project"></a>Hackathon 2021 Project</h2><p>The blog platform for delivery information and tips to customers. </p><span id="more"></span><h2 id="Story"><a href="#Story" class="headerlink" title="Story"></a>Story</h2><p>Our goal is provide platform to deriver information from CSS to our customer.<br>The pain points for customers, especially non-English native, are</p><ul><li>Can not find the right information using search engines (Google, Bing, etc) when customer is facing an issue.</li><li>Hard to catch up the latest news from Microsoft</li></ul><p>Engineers also want an easy way to share information with customers. Following information should be shared to customers and community.</p><ul><li>How to guide for the problem frequency asked</li><li>Procedures for collecting information when a problem occurs</li><li>New features of Microsoft help our customer</li></ul><p>If the platform was easy to share in SNS or be found by search, it help reduce inquiries. It means customer CAN solve their problem by themselves and CSS engineer can focus on more complex issues </p><p>We are establishing Blog environment using Microsoft technology (GitHub) for engagement between customer and engineer and developer, proactively share info to customer with single access. This empowered customer to achieve more and engineer to share info easily to customer at same time.</p>]]></content>
     
     
+    <summary type="html">&lt;h2 id=&quot;Hackathon-2021-Project&quot;&gt;&lt;a href=&quot;#Hackathon-2021-Project&quot; class=&quot;headerlink&quot; title=&quot;Hackathon 2021 Project&quot;&gt;&lt;/a&gt;Hackathon 2021 Project&lt;/h2&gt;&lt;p&gt;The blog platform for delivery information and tips to customers. &lt;/p&gt;</summary>
     
     
-    <category term="Information" scheme="https://cssjpn.github.io/blog/tags/Information/"/>
     
-    <category term="Example" scheme="https://cssjpn.github.io/blog/tags/Example/"/>
+    
+    <category term="GitHub" scheme="https://cssjpn.github.io/blog/tags/GitHub/"/>
+    
+    <category term="AzureSupport" scheme="https://cssjpn.github.io/blog/tags/AzureSupport/"/>
+    
+    <category term="JavaScript" scheme="https://cssjpn.github.io/blog/tags/JavaScript/"/>
+    
+    <category term="Blog" scheme="https://cssjpn.github.io/blog/tags/Blog/"/>
+    
+    <category term="docker" scheme="https://cssjpn.github.io/blog/tags/docker/"/>
+    
+    <category term="HTML" scheme="https://cssjpn.github.io/blog/tags/HTML/"/>
+    
+    <category term="markdown" scheme="https://cssjpn.github.io/blog/tags/markdown/"/>
+    
+    <category term="CSS" scheme="https://cssjpn.github.io/blog/tags/CSS/"/>
     
   </entry>
   
@@ -42,7 +54,7 @@
     <link href="https://cssjpn.github.io/blog/information/test/"/>
     <id>https://cssjpn.github.io/blog/information/test/</id>
     <published>2020-12-21T06:00:00.000Z</published>
-    <updated>2021-10-14T11:55:48.609Z</updated>
+    <updated>2021-10-14T12:08:16.782Z</updated>
     
     <content type="html"><![CDATA[<p>hello, world!</p>]]></content>
     
