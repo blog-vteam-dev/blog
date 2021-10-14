@@ -49,7 +49,7 @@ root: /blog/
 permalink: :title/
 permalink_defaults:
 
-language: ja
+language: en
 timezone: asia/Tokyo
 
 # Directory
