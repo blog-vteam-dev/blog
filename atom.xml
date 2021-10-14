@@ -6,7 +6,7 @@
   <link href="https://cssjpn.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://cssjpn.github.io/blog/"/>
-  <updated>2021-10-14T12:08:16.782Z</updated>
+  <updated>2021-10-14T12:10:14.127Z</updated>
   <id>https://cssjpn.github.io/blog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cssjpn.github.io/blog/information/example/"/>
     <id>https://cssjpn.github.io/blog/information/example/</id>
     <published>2021-10-14T03:00:00.000Z</published>
-    <updated>2021-10-14T12:08:16.782Z</updated>
+    <updated>2021-10-14T12:10:14.127Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Hackathon-2021-Project"><a href="#Hackathon-2021-Project" class="headerlink" title="Hackathon 2021 Project"></a>Hackathon 2021 Project</h2><p>The blog platform for delivery information and tips to customers. </p><span id="more"></span><h2 id="Story"><a href="#Story" class="headerlink" title="Story"></a>Story</h2><p>Our goal is provide platform to deriver information from CSS to our customer.<br>The pain points for customers, especially non-English native, are</p><ul><li>Can not find the right information using search engines (Google, Bing, etc) when customer is facing an issue.</li><li>Hard to catch up the latest news from Microsoft</li></ul><p>Engineers also want an easy way to share information with customers. Following information should be shared to customers and community.</p><ul><li>How to guide for the problem frequency asked</li><li>Procedures for collecting information when a problem occurs</li><li>New features of Microsoft help our customer</li></ul><p>If the platform was easy to share in SNS or be found by search, it help reduce inquiries. It means customer CAN solve their problem by themselves and CSS engineer can focus on more complex issues </p><p>We are establishing Blog environment using Microsoft technology (GitHub) for engagement between customer and engineer and developer, proactively share info to customer with single access. This empowered customer to achieve more and engineer to share info easily to customer at same time.</p>]]></content>
     
@@ -54,7 +54,7 @@
     <link href="https://cssjpn.github.io/blog/information/test/"/>
     <id>https://cssjpn.github.io/blog/information/test/</id>
     <published>2020-12-21T06:00:00.000Z</published>
-    <updated>2021-10-14T12:08:16.782Z</updated>
+    <updated>2021-10-14T12:10:14.131Z</updated>
     
     <content type="html"><![CDATA[<p>hello, world!</p>]]></content>
     
