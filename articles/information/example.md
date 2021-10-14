@@ -1,5 +1,5 @@
 ---
-title: サンプル記事 - タイトル
+title: Blog Gen GO!
 date: 2021-01-01 12:00:00
 tags:
   - Information
@@ -7,11 +7,11 @@ tags:
 disableDisclaimer: false
 ---
 
-記事概要
+Hackathon 2021 Project
 
 <!-- more -->
 
-記事本文
+The blog platform for delivery information and tips to customers. 
 
 <!-- 文字修飾 -->
 
